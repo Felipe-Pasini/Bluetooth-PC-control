@@ -1,4 +1,4 @@
-# Controle-Bluetooth-para-PC
+# Bluetooth-PC-Control
 
 Application of a computer remote control, using bluetooth communication.
 The microcontroller used was a STM32F103C8T6 (also known as BluePill) and the bluetooth communication was made using a HC-05 module.
